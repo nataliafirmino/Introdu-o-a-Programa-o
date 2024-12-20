@@ -1,0 +1,6 @@
+nome= ('Natália Félix Firmino')
+matrícula=('20232LCAF0238')
+curso= ('Licenciatura em Computação')
+print('nome:',nome)
+print('matricula:',matrícula)
+print('curso:',curso)
